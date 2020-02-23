@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    }
+    
+    
+#header {
+    background-color: blue;
+    width: 21%;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
+    
+#instructions {
+    background-color:darkgreen;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+       
+    }
+    
+#points-needed {
+    background-color: 
+    width: 200px;
+    padding: 28px;
+    margin-bottom: 20px;
+    float:left;
+    
+    }
+    
+#wins-loss {
+    background-color:
+    width: 200px;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+      
+    }
+    
+#score {
+    background-color: lightgreen;
+    width : 21%;
+    padding: 10px;
+    margin-bottom: 1px;
+    padding-bottom: 1%;
+    }
