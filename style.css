@@ -28,7 +28,7 @@ body {
     }
     
 #wins-loss {
-    background-color: aqua;
+    background-color:grey;
     width: 200px;
     display: inline-block;
     padding: 10px;
