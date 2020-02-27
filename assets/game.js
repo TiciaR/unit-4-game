@@ -14,6 +14,13 @@ var imageValue;
 var randomNumber;
 
 
+var pictures = ["assets/images/crys.png",
+    "assets/images/crystal-icon-1.jpg",
+    "assets/images/crystal-icon-2.png",
+    "assets/images/crystal-icon-7.jpg"]
+
+
+
 var startGame = function () {
     
     for (var j = 0; j < pictures.length; j++) {
